@@ -1,0 +1,520 @@
+,,Parameter,,,,,,Stat_seq_1_params
+,,crn28ull_2d5_elk_v1d0_2p1_shrink0d9_embedded_usage.scs,,,,,,TTGlobalCorner_LocalMC_RES_BIP_DIO_DISRES
+,,crn28ull_2d5_elk_v1d0_2p1_shrink0d9_embedded_usage.scs,,,,,,TTGlobalCorner_LocalMC_MOS_MOSCAP
+,,crn28ull_2d5_elk_v1d0_2p1_shrink0d9_embedded_usage.scs,,,,,,TTGlobalCorner_LocalMC_MOM
+,,crn28ull_2d5_elk_v1d0_2p1_shrink0d9_embedded_usage.scs,,,,,,TTGlobalCorner_LocalMC_IND_JVAR
+
+Point,Test,Output,Spec,Weight,Pass/Fail,Min,Max,Stat_seq_1_params
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+1,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,13.59e-9,13.59e-9,13.59e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+2,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-10.48e-9,-10.48e-9,-10.48e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+3,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-36.03e-9,-36.03e-9,-36.03e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+4,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.16e-9,40.16e-9,40.16e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+5,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-23.8e-9,-23.8e-9,-23.8e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+6,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,28.34e-9,28.34e-9,28.34e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+7,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-310.1e-12,-310.1e-12,-310.1e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+8,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.374e-9,3.374e-9,3.374e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+9,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-24.49e-9,-24.49e-9,-24.49e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+10,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,29.13e-9,29.13e-9,29.13e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+11,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,212.6e-12,212.6e-12,212.6e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+12,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,2.841e-9,2.841e-9,2.841e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+13,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,14.71e-9,14.71e-9,14.71e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+14,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-11.6e-9,-11.6e-9,-11.6e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+15,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-36.89e-9,-36.89e-9,-36.89e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+16,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.98e-9,40.98e-9,40.98e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+17,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,18.41e-9,18.41e-9,18.41e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+18,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-15.23e-9,-15.23e-9,-15.23e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+19,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-40.49e-9,-40.49e-9,-40.49e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+20,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,44.29e-9,44.29e-9,44.29e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+21,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.14e-9,-28.14e-9,-28.14e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+22,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.15e-9,32.15e-9,32.15e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+23,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.057e-9,3.057e-9,3.057e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+24,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-25.28e-12,-25.28e-12,-25.28e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+25,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.54e-9,-28.54e-9,-28.54e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+26,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.54e-9,32.54e-9,32.54e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+27,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.504e-9,3.504e-9,3.504e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+28,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-468.6e-12,-468.6e-12,-468.6e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+29,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,19.7e-9,19.7e-9,19.7e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+30,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-16.53e-9,-16.53e-9,-16.53e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+31,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-41.66e-9,-41.66e-9,-41.66e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+32,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,45.4e-9,45.4e-9,45.4e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+33,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,13.71e-9,13.71e-9,13.71e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+34,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-10.6e-9,-10.6e-9,-10.6e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+35,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-36.13e-9,-36.13e-9,-36.13e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+36,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.26e-9,40.26e-9,40.26e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+37,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-23.94e-9,-23.94e-9,-23.94e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+38,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,28.51e-9,28.51e-9,28.51e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+39,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-195.9e-12,-195.9e-12,-195.9e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+40,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.259e-9,3.259e-9,3.259e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+41,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-24.65e-9,-24.65e-9,-24.65e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+42,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,29.28e-9,29.28e-9,29.28e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+43,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,317.9e-12,317.9e-12,317.9e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+44,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,2.735e-9,2.735e-9,2.735e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+45,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,14.83e-9,14.83e-9,14.83e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+46,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-11.73e-9,-11.73e-9,-11.73e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+47,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-37e-9,-37e-9,-37e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+48,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,41.08e-9,41.08e-9,41.08e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+49,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,19e-9,19e-9,19e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+50,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-15.8e-9,-15.8e-9,-15.8e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+51,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-41.05e-9,-41.05e-9,-41.05e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+52,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,44.82e-9,44.82e-9,44.82e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+53,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.45e-9,-28.45e-9,-28.45e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+54,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.46e-9,32.46e-9,32.46e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+55,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.405e-9,3.405e-9,3.405e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+56,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-359.3e-12,-359.3e-12,-359.3e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+57,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.84e-9,-28.84e-9,-28.84e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+58,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.85e-9,32.85e-9,32.85e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+59,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.852e-9,3.852e-9,3.852e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+60,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-811.8e-12,-811.8e-12,-811.8e-12
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+61,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,20.28e-9,20.28e-9,20.28e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+62,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-17.11e-9,-17.11e-9,-17.11e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+63,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-42.23e-9,-42.23e-9,-42.23e-9
+"Parameters: Sel0=0, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+64,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,45.96e-9,45.96e-9,45.96e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+65,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,15.38e-9,15.38e-9,15.38e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+66,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-12.23e-9,-12.23e-9,-12.23e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+67,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-37.63e-9,-37.63e-9,-37.63e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+68,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,41.64e-9,41.64e-9,41.64e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+69,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-25.86e-9,-25.86e-9,-25.86e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+70,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,30.21e-9,30.21e-9,30.21e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+71,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.079e-9,1.079e-9,1.079e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+72,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.91e-9,1.91e-9,1.91e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+73,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-26.9e-9,-26.9e-9,-26.9e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+74,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,31.03e-9,31.03e-9,31.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+75,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.881e-9,1.881e-9,1.881e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+76,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.096e-9,1.096e-9,1.096e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+77,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,17.11e-9,17.11e-9,17.11e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+78,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-13.95e-9,-13.95e-9,-13.95e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+79,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-39.13e-9,-39.13e-9,-39.13e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+80,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,43.05e-9,43.05e-9,43.05e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+81,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,9.3e-9,9.3e-9,9.3e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+82,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-6.353e-9,-6.353e-9,-6.353e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+83,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-32.56e-9,-32.56e-9,-32.56e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+84,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,36.73e-9,36.73e-9,36.73e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+85,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-18.33e-9,-18.33e-9,-18.33e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+86,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.18e-9,22.18e-9,22.18e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+87,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-5.428e-9,-5.428e-9,-5.428e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+88,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.758e-9,7.758e-9,7.758e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+89,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-19.03e-9,-19.03e-9,-19.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+90,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.95e-9,22.95e-9,22.95e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+91,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-4.852e-9,-4.852e-9,-4.852e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+92,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.257e-9,7.257e-9,7.257e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+93,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,10.23e-9,10.23e-9,10.23e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+94,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-7.247e-9,-7.247e-9,-7.247e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+95,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-33.11e-9,-33.11e-9,-33.11e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+96,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,37.29e-9,37.29e-9,37.29e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+97,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,6.573e-9,6.573e-9,6.573e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+98,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-3.756e-9,-3.756e-9,-3.756e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+99,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-31.03e-9,-31.03e-9,-31.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+100,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,35.12e-9,35.12e-9,35.12e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+101,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-13.76e-9,-13.76e-9,-13.76e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+102,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,17.35e-9,17.35e-9,17.35e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+103,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-9.393e-9,-9.393e-9,-9.393e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+104,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,12.21e-9,12.21e-9,12.21e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+105,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-14.93e-9,-14.93e-9,-14.93e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+106,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,18.6e-9,18.6e-9,18.6e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+107,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-8.471e-9,-8.471e-9,-8.471e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+108,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,11.07e-9,11.07e-9,11.07e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+109,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.608e-9,7.608e-9,7.608e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+110,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-4.746e-9,-4.746e-9,-4.746e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+111,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-31.68e-9,-31.68e-9,-31.68e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+112,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,35.81e-9,35.81e-9,35.81e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+113,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,20.21e-9,20.21e-9,20.21e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+114,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-17.02e-9,-17.02e-9,-17.02e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+115,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-42.24e-9,-42.24e-9,-42.24e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+116,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,45.96e-9,45.96e-9,45.96e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+117,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-29.03e-9,-29.03e-9,-29.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+118,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,33.03e-9,33.03e-9,33.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+119,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,4.119e-9,4.119e-9,4.119e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+120,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-1.04e-9,-1.04e-9,-1.04e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+121,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-29.71e-9,-29.71e-9,-29.71e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+122,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,33.75e-9,33.75e-9,33.75e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+123,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,5.008e-9,5.008e-9,5.008e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+124,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-1.869e-9,-1.869e-9,-1.869e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+125,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.02e-9,22.02e-9,22.02e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+126,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-18.89e-9,-18.89e-9,-18.89e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+127,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-44.03e-9,-44.03e-9,-44.03e-9
+"Parameters: Sel0=0, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+128,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,47.69e-9,47.69e-9,47.69e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+129,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,13.48e-9,13.48e-9,13.48e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+130,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-10.38e-9,-10.38e-9,-10.38e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+131,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-35.94e-9,-35.94e-9,-35.94e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+132,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.06e-9,40.06e-9,40.06e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+133,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-23.68e-9,-23.68e-9,-23.68e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+134,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,28.21e-9,28.21e-9,28.21e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+135,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-390e-12,-390e-12,-390e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+136,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.471e-9,3.471e-9,3.471e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+137,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-24.35e-9,-24.35e-9,-24.35e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+138,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,29e-9,29e-9,29e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+139,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,122.3e-12,122.3e-12,122.3e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+140,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,2.933e-9,2.933e-9,2.933e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+141,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,14.61e-9,14.61e-9,14.61e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+142,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-11.49e-9,-11.49e-9,-11.49e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+143,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-36.78e-9,-36.78e-9,-36.78e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+144,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.89e-9,40.89e-9,40.89e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+145,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,18.44e-9,18.44e-9,18.44e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+146,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-15.25e-9,-15.25e-9,-15.25e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+147,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-40.51e-9,-40.51e-9,-40.51e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+148,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,44.3e-9,44.3e-9,44.3e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+149,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.15e-9,-28.15e-9,-28.15e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+150,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.15e-9,32.15e-9,32.15e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+151,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.062e-9,3.062e-9,3.062e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+152,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-34.44e-12,-34.44e-12,-34.44e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+153,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.55e-9,-28.55e-9,-28.55e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+154,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.54e-9,32.54e-9,32.54e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+155,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.517e-9,3.517e-9,3.517e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+156,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-464.2e-12,-464.2e-12,-464.2e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+157,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,19.71e-9,19.71e-9,19.71e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+158,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-16.54e-9,-16.54e-9,-16.54e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+159,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-41.67e-9,-41.67e-9,-41.67e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+160,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,45.43e-9,45.43e-9,45.43e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+161,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,13.77e-9,13.77e-9,13.77e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+162,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-10.67e-9,-10.67e-9,-10.67e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+163,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-36.21e-9,-36.21e-9,-36.21e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+164,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,40.32e-9,40.32e-9,40.32e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+165,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-24.02e-9,-24.02e-9,-24.02e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+166,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,28.62e-9,28.62e-9,28.62e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+167,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-127e-12,-127e-12,-127e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+168,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.189e-9,3.189e-9,3.189e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+169,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-24.73e-9,-24.73e-9,-24.73e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+170,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,29.36e-9,29.36e-9,29.36e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+171,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,380e-12,380e-12,380e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+172,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,2.657e-9,2.657e-9,2.657e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+173,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,14.92e-9,14.92e-9,14.92e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+174,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-11.8e-9,-11.8e-9,-11.8e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+175,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-37.07e-9,-37.07e-9,-37.07e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+176,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,41.14e-9,41.14e-9,41.14e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+177,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,18.9e-9,18.9e-9,18.9e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+178,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-15.7e-9,-15.7e-9,-15.7e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+179,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-40.95e-9,-40.95e-9,-40.95e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+180,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,44.73e-9,44.73e-9,44.73e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+181,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.39e-9,-28.39e-9,-28.39e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+182,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.4e-9,32.4e-9,32.4e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+183,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.358e-9,3.358e-9,3.358e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+184,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-311.3e-12,-311.3e-12,-311.3e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+185,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-28.79e-9,-28.79e-9,-28.79e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+186,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,32.8e-9,32.8e-9,32.8e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+187,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,3.791e-9,3.791e-9,3.791e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+188,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-754.2e-12,-754.2e-12,-754.2e-12
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+189,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,20.17e-9,20.17e-9,20.17e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+190,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-17e-9,-17e-9,-17e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+191,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-42.12e-9,-42.12e-9,-42.12e-9
+"Parameters: Sel0=900m, Sel1=0, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+192,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,45.87e-9,45.87e-9,45.87e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+193,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,15.42e-9,15.42e-9,15.42e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+194,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-12.26e-9,-12.26e-9,-12.26e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+195,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-37.66e-9,-37.66e-9,-37.66e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+196,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,41.67e-9,41.67e-9,41.67e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+197,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-25.89e-9,-25.89e-9,-25.89e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+198,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,30.21e-9,30.21e-9,30.21e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+199,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.103e-9,1.103e-9,1.103e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+200,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.898e-9,1.898e-9,1.898e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+201,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-26.93e-9,-26.93e-9,-26.93e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+202,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,31.05e-9,31.05e-9,31.05e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+203,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.913e-9,1.913e-9,1.913e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+204,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,1.094e-9,1.094e-9,1.094e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+205,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,17.14e-9,17.14e-9,17.14e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+206,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-13.98e-9,-13.98e-9,-13.98e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+207,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-39.16e-9,-39.16e-9,-39.16e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+208,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,43.06e-9,43.06e-9,43.06e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+209,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,9.284e-9,9.284e-9,9.284e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+210,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-6.34e-9,-6.34e-9,-6.34e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+211,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-32.56e-9,-32.56e-9,-32.56e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+212,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,36.73e-9,36.73e-9,36.73e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+213,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-18.31e-9,-18.31e-9,-18.31e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+214,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.16e-9,22.16e-9,22.16e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+215,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-5.457e-9,-5.457e-9,-5.457e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+216,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.784e-9,7.784e-9,7.784e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+217,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-19e-9,-19e-9,-19e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+218,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.92e-9,22.92e-9,22.92e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+219,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-4.875e-9,-4.875e-9,-4.875e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+220,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.279e-9,7.279e-9,7.279e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+221,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,10.18e-9,10.18e-9,10.18e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+222,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-7.225e-9,-7.225e-9,-7.225e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+223,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-33.1e-9,-33.1e-9,-33.1e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=0, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+224,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,37.28e-9,37.28e-9,37.28e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+225,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,6.569e-9,6.569e-9,6.569e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+226,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-3.737e-9,-3.737e-9,-3.737e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+227,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-31.01e-9,-31.01e-9,-31.01e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+228,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,35.12e-9,35.12e-9,35.12e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+229,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-13.72e-9,-13.72e-9,-13.72e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+230,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,17.32e-9,17.32e-9,17.32e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+231,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-9.421e-9,-9.421e-9,-9.421e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+232,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,12.23e-9,12.23e-9,12.23e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+233,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-14.9e-9,-14.9e-9,-14.9e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+234,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,18.56e-9,18.56e-9,18.56e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+235,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-8.511e-9,-8.511e-9,-8.511e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+236,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,11.11e-9,11.11e-9,11.11e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+237,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,7.588e-9,7.588e-9,7.588e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+238,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-4.731e-9,-4.731e-9,-4.731e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+239,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-31.67e-9,-31.67e-9,-31.67e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=0, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+240,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,35.79e-9,35.79e-9,35.79e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+241,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,20.25e-9,20.25e-9,20.25e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+242,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-17.07e-9,-17.07e-9,-17.07e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+243,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-42.29e-9,-42.29e-9,-42.29e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+244,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,46.01e-9,46.01e-9,46.01e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+245,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-29.05e-9,-29.05e-9,-29.05e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+246,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,33.06e-9,33.06e-9,33.06e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+247,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,4.164e-9,4.164e-9,4.164e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=0, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+248,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-1.064e-9,-1.064e-9,-1.064e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=0",,,,,,,,
+249,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-29.74e-9,-29.74e-9,-29.74e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=0, Sel7=900m",,,,,,,,
+250,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,33.77e-9,33.77e-9,33.77e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=0",,,,,,,,
+251,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,5.034e-9,5.034e-9,5.034e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=0, Sel6=900m, Sel7=900m",,,,,,,,
+252,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-1.885e-9,-1.885e-9,-1.885e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=0",,,,,,,,
+253,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,22.07e-9,22.07e-9,22.07e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=0, Sel7=900m",,,,,,,,
+254,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-18.93e-9,-18.93e-9,-18.93e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=0",,,,,,,,
+255,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,-44.08e-9,-44.08e-9,-44.08e-9
+"Parameters: Sel0=900m, Sel1=900m, Sel2=900m, Sel3=900m, Sel4=900m, Sel5=900m, Sel6=900m, Sel7=900m",,,,,,,,
+256,CapacitivePUF_APUF_Stage_Proposed_CM_TB_1,Delay_Diff_X,,,,47.75e-9,47.75e-9,47.75e-9
+

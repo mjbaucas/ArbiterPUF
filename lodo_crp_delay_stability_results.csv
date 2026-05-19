@@ -1,0 +1,9 @@
+test_chip,accuracy,precision,recall,f1,TP,FP,FN,TN
+crp_dataset_8_1_1.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_2.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_3.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_4.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_5.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_6.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_7.csv,1.0,0.0,0.0,0.0,0,0,0,256
+crp_dataset_8_1_8.csv,1.0,0.0,0.0,0.0,0,0,0,256
